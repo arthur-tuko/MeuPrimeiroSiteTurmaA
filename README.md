@@ -1,2 +1,2 @@
 # MeuPrimeiroSiteTurmaA
-Repositório de hyml e css
+Repositório de html e css
